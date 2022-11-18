@@ -18,6 +18,6 @@
   "homepage": "https://github.com/seeo/webpack-fundamentals#readme",
   "dependencies": {
     "@webpack-cli/init": "^0.2.2",
-    "webpack-cli": "^3.3.5"
+    "webpack-cli": "^3.3.12"
   }
 }
